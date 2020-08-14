@@ -14,9 +14,9 @@
 
 Правила, а также сопутствующие инициативы и чаты, вы можете обсуждать и менять при помощи Pull Requests на гитхабе.  
 
-Ссылки:
+## Ссылки
 
-Канал с анонсами - https://t.me/joinchat/AAAAAEVnoTRvlpf85Sle3w
-Правила чата - https://github.com/BSUIR-VMSiS/rules
-Code of Conduct - https://github.com/BSUIR-VMSiS/code-of-conduct
-Сопутствующие чаты - https://github.com/BSUIR-VMSiS/topics
+* Канал с анонсами - https://t.me/joinchat/AAAAAEVnoTRvlpf85Sle3w
+* Правила чата - https://github.com/BSUIR-VMSiS/rules
+* Code of Conduct - https://github.com/BSUIR-VMSiS/code-of-conduct
+* Сопутствующие чаты - https://github.com/BSUIR-VMSiS/topics

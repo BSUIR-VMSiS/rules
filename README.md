@@ -20,3 +20,4 @@
 * Правила чата - https://github.com/BSUIR-VMSiS/rules
 * Code of Conduct - https://github.com/BSUIR-VMSiS/code-of-conduct
 * Сопутствующие чаты - https://github.com/BSUIR-VMSiS/topics
+* Список инициатив со ссылками на чаты в виде google doc: https://docs.google.com/spreadsheets/d/1H6hlJIiHg2grzUxG_ku2H8oDO9DwiZ0fmA_H7gR2Qfk/
